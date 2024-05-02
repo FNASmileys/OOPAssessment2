@@ -1,0 +1,14 @@
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/bin/Debug/net8.0/OOPAss2
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/bin/Debug/net8.0/OOPAss2.deps.json
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/bin/Debug/net8.0/OOPAss2.runtimeconfig.json
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/bin/Debug/net8.0/OOPAss2.dll
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/bin/Debug/net8.0/OOPAss2.pdb
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/OOPAss2.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/OOPAss2.AssemblyInfoInputs.cache
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/OOPAss2.AssemblyInfo.cs
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/OOPAss2.csproj.CoreCompileInputs.cache
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/OOPAss2.dll
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/refint/OOPAss2.dll
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/OOPAss2.pdb
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/OOPAss2.genruntimeconfig.cache
+/home/hugo/RiderProjects/OOPAss2/OOPAss2/obj/Debug/net8.0/ref/OOPAss2.dll
